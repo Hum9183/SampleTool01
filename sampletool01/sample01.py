@@ -2,7 +2,7 @@
 from maya import cmds
 from maya.common.ui import LayoutManager
 
-from SampleTool02.sample02 import print_hello
+from sampletool02.sample02 import print_hello
 
 __TOOL_NAME = 'Sample Tool01'
 __BUTTON_NAME = 'Print Hello!!'
