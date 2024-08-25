@@ -1,3 +1,6 @@
 [project]
 name = "sampletool01"
 version = "0.1.0"
+dependencies = [
+    "numpy==1.26.2"
+]
