@@ -5,4 +5,5 @@ requires = ["setuptools>=45", "wheel"]
 name = "SampleTool01"
 version = "0.1.0"
 dependencies = [
+    "numpy==1.26.2"
 ]
